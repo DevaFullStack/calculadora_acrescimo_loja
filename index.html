@@ -1,0 +1,26 @@
+```html
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Calculadora de Acréscimo</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🛍️ Calculadora de Acréscimo</h1>
+    <label for="custo">Custo da peça (R$):</label>
+    <input type="number" id="custo" placeholder="Ex: 50.00" />
+
+    <label for="porcentagem">Porcentagem de acréscimo (%):</label>
+    <input type="number" id="porcentagem" placeholder="Ex: 30" />
+
+    <button onclick="calcular()">Calcular Preço de Venda</button>
+
+    <div id="resultado"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
