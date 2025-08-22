@@ -1,3 +1,12 @@
+![Banner do Projeto](./banner_readme.png)
+
+![Licença MIT](https://img.shields.io/badge/licença-MIT-blue.svg)
+![Feito com HTML](https://img.shields.io/badge/feito%20com-HTML5-E34F26.svg)
+![Feito com CSS](https://img.shields.io/badge/feito%20com-CSS3-1572B6.svg)
+![Feito com JavaScript](https://img.shields.io/badge/feito%20com-JavaScript-F7DF1E.svg)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow.svg)
+![Autora](https://img.shields.io/badge/autora-DevAnalista-purple)
+
 # 👗 Calculadora de Acréscimo para Loja de Roupas
 
 Este projeto foi criado para ajudar uma amiga que trabalha em uma loja de roupas a calcular o preço de venda de cada peça com base no custo e na porcentagem de acréscimo desejada.
